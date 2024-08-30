@@ -1,2 +1,2 @@
 # Dental-Management-System
-Clinic Management System is a complete Java-based solution developed to meet the unique requirements of a small-scale, private dental clinic.
+Clinic Management System is a complete Java-based solution developed to meet the unique requirements of a small-scale, private dental clinic. This system's major goal is to provide effective dental care to out patients who may not have access to medical facilities at government hospitals. The project intends to streamline appointment scheduling, patient information management, and fee calculation processes by leveraging modern software development techniques such as object-oriented programming (OOP) concepts, design patterns, and data structures.
